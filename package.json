@@ -1,0 +1,14 @@
+{
+  "name": "askr",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Esperlu&te",
+  "license": "unlicensed",
+  "private": true,
+  "dependencies": {
+    "find-my-way": "^7.1.0",
+    "makerjs": "^0.17.1",
+    "opentype.js": "^1.3.4",
+    "validator": "^13.7.0"
+  }
+}
